@@ -4,3 +4,4 @@ third time!
 test license
 bad change
 test branch
+A conflict
